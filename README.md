@@ -21,3 +21,6 @@ MAC address learning
 
 https://gist.github.com/k-sone/8036832    
 https://gist.github.com/boxofrad/4511ba4357401a0ea7a04e4d394b9609#file-bind_socket-rb
+
+# Related Links
+https://kure.hatenablog.jp/entry/2020/12/20/004325
